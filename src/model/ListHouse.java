@@ -7,10 +7,6 @@ package project.model;
 
 import project.util.Listable;
 
-/**
- *
- * @author NLiyanage
- */
 public class ListHouse implements Listable {
 // House information
 
